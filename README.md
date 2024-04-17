@@ -2,7 +2,7 @@
 ### **1.How to compare two JSON have the same properties without order?**
 
 [_**How to compare two JSON have the same properties without order?**_](./JSON.js)
-- I create a javascript program for this question 
+- I create a javascript program for this question and file name is _**JSON.js**_
 - And click the above link to get the program
 
 ### **2.Use the rest countries' API URL -> https://restcountries.com/v3.1/all and display all the country flags in the console**
