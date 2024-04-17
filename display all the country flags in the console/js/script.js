@@ -7,6 +7,6 @@ function reqListener() {
 	const countriesData = JSON.parse(this.responseText);
 	// this.responseText;
 	for (let ind = 0; ind < countriesData.length; ind++) {
-	console.log("countrie name:",countriesData[ind].name.common,",","flag:", countriesData[ind].flags.png);
+	console.log("flag:", countriesData[ind].flags.png);
 	}
 }
